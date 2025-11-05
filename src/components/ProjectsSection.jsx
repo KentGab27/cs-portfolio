@@ -21,7 +21,7 @@ const projects = [
         id: 3,
         title: "Web Programming Frontend Project",
         description: "A single page Frontend project Web programming class",
-        image: "/projects/Webprog.png",
+        image: "/projects/WebProg.png",
         tags: ["HTML", "CSS", "JavaScript"],
         githubUrl: "https://github.com/KentGab27/Web-Programming-Frontend-Project"
     }

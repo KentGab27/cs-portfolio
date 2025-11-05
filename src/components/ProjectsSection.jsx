@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "Auto Vision",
         description: "A machine learning based Android application created for a Thesis to detect external damage on sedan vehicles and generate repair cost estimates.",
-        image: "/img/AutoVision_Logo.png",
+        image: "/projects/AutoVision_Logo.png",
         tags: ["Python", "Kotlin", "Android Studio", "YOLO v8"],
         githubUrl: "https://github.com/KentGab27/AutoVision"
     },
@@ -13,7 +13,7 @@ const projects = [
         id: 2,
         title: "CellScope",
         description: "A machine learning based Android application created for an App Dev final project to detect and classify blood cells.",
-        image: "/img/CellScope_Logo.png",
+        image: "/projects/CellScope_Logo.png",
         tags: ["Python", "Kotlin", "Android Studio", "YOLO v8"],
         githubUrl: "https://github.com/KentGab27/CellScope"
     },
@@ -21,7 +21,7 @@ const projects = [
         id: 3,
         title: "Web Programming Frontend Project",
         description: "A single page Frontend project Web programming class",
-        image: "/img/Webprog.png",
+        image: "/projects/Webprog.png",
         tags: ["HTML", "CSS", "JavaScript"],
         githubUrl: "https://github.com/KentGab27/Web-Programming-Frontend-Project"
     }

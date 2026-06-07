@@ -30,13 +30,13 @@ export const Navbar = () => {
         <div className="container flex items-center justify-between">
             <a className="text-xl font-bold text-primary flex items-center" href="#home">
                 <span className="relative z-10">
-                    <span className="text-glow text-foreground">Student</span> Portfolio
+                    <span className="text-glow text-foreground">Kent</span> Gabrielle
                 </span>
             </a>
 
             {/* The Desktop navigation */}
             
-            <div className="hidden md:flex space-x-8">
+            <div className="hidden md:flex space-x-8">  
                 {navItems.map((item, key) => (
                     <a key={key} href={item.href} className="text-foreground/80 hover:text-primary transition-colors duration-300">
                         {item.name}

@@ -24,6 +24,14 @@ const projects = [
         image: "/projects/WebProg.png",
         tags: ["HTML", "CSS", "JavaScript"],
         githubUrl: "https://github.com/KentGab27/Web-Programming-Frontend-Project"
+    },
+    {
+        id: 4,
+        title: "Catching Game",
+        description: "A small Unity practice game where the player catches fruits to score.",
+        image: "/projects/GameDevPrac_1.png",
+        tags: ["Unity", "C#"],
+        githubUrl: "https://github.com/KentGab27/GameDev-Practice"
     }
 ];
 

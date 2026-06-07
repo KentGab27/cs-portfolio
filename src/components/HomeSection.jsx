@@ -11,8 +11,8 @@ export const HomeSection = () => {
                     <span className="text-primary opacity-0 animate-fade-in-delay-1"> Kent </span>
                     <span className="text-primary opacity-0 animate-fade-in-delay-2"> Gabrielle </span>
                 </h1>
-                <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4"> I’m currently improving my UI/UX Design abilities 
-                    and discovering more about Machine Learning as part of my continuous learning journey.
+                <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4"> 
+                    Continuously learning and improving my UI/UX design skills and exploring game development alongside my web development foundation.
                 </p>
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                     <a href="#projects" className="cosmic-button">

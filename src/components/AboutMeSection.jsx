@@ -11,10 +11,11 @@ export const AboutMeSection = () => {
                 <div className="grid cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold">
-                            Building My Path in Web Development
+                            Building, Learning, Creating
                         </h3>
-                        <p className="text-muted-foreground">As a Computer Science student, I’m still building my foundation in web development. 
-                            I’m eager to learn, practice, and work on projects that help me understand both design and development better.</p>
+                        <p className="text-muted-foreground">As a Computer Science graduate, I'm actively growing across multiple areas,
+                            strengthening my web development skills while exploring game development as a side pursuit. I enjoy hands-on 
+                            projects that bridge design and development.</p>
                         <div className="flex flex-col sm:flex-row gap-4 pt=4 justify-center">
                             <a href="https://github.com/KentGab27" className="cosmic-button"
                             target="_blank">

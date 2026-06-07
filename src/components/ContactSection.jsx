@@ -34,13 +34,13 @@ export const ContactSection = () => {
                             <h4 className="font-medium">
                                 Phone Number: 
                             </h4>
-                            <p> 0933 812 9383 (SMART)</p>
-                            <p> 0991 210 7367 (DITO)</p>
+                            <p> +63 933 812 9383 (SMART)</p>
+                            <p> +63 991 210 7367 (DITO)</p>
                         </div>
                     </div>
                 </div>
             </div>
-            {/*Other side of the Grid, Contact Form */}
+            {/*Other side of the Grid, Contact Form if ever to add*/}
                 </div>
             </div>
         </section>

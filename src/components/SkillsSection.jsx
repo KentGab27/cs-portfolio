@@ -7,8 +7,7 @@ const skills = [
     {name: "CSS",category:"Tech Stack"},
     {name: "JavaScript",category:"Tech Stack"},
     {name: "Python",category:"Tech Stack"},
-    {name: "C#",category:"Tech Stack"},
-    {name: "Kotlin",category:"Tech Stack"}
+    {name: "C#",category:"Tech Stack"}
 ];
 
 const categories = ["Tech Stack",];

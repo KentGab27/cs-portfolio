@@ -37,7 +37,7 @@ export const AboutMeSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg"> Interests </h4>
                                     <p className="text-muted-foreground"> - Web Development </p>
-                                    <p className="text-muted-foreground"> - Machine Learning </p>
+                                    <p className="text-muted-foreground"> - Game Development </p>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ export const AboutMeSection = () => {
                                 </div> 
                                  <div className="text-left">
                                     <h4 className="font-semibold text-lg"> Education </h4>
-                                    <p className="text-muted-foreground"> Studying Bachelors of Computer Science</p>
+                                    <p className="text-muted-foreground"> Graduate of Science in Computer Science.</p>
                                     <p>at <a href="https://mcm.edu.ph/" className="text-primary" target="_blank">Mapua Malayan Colleges Mindanao</a></p>
                                 </div>
                             </div>
